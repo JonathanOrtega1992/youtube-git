@@ -11,4 +11,5 @@
 9. git branch : para ver las ramas que tengo y en la que estoy
 10.  git checkout master : al pasar a la rama de master, heores desaperecera
 11. git branch -d rama-heroes: para borrar una rama que no se necesite
-12. git push
+12. git push : cambia y guarda todos los cambios y se veran en la pagina de git
+13. git commit -am
