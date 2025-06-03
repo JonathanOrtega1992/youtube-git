@@ -9,3 +9,4 @@
 7- git commit --amend : arreglará ultimo commit, primero i para modificar, luego esc , luego dos puntos :, luego w de write, q de quit y admiracion para abrir :wq!
 8- git checkout -b rama-heroes  : ya que es mejor no trabajar en el master, entonces se crean ramas
 9- git branch : para ver las ramas que tengo y en la que estoy
+10-  git checkout master : al pasar a la rama de master, heores desaperecera
