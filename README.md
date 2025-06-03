@@ -4,4 +4,7 @@
 2- git add .  :tomas todos los archivos que tenga desde ultimo commit y prepararlo para un fotografia
 3- git reset . : para regresar o retornar ese git add. y no subir nada aun.
 4- git commit : se escribe como git commit -m "comentario del cambio"
-5- git checkout -- .
+5- git checkout -- .  : me reconstruye lo que se hizo desde el ultimo commit
+6- git log : para ver mi historial de commits
+7- git commit --amend : arreglará ultimo commit, primero i para modificar, luego esc , luego dos puntos :, luego w de write, q de quit y admiracion para abrir :wq!
+8- git checkout -b rama-heroes  : ya que es mejor no trabajar en el master, entonces se crean ramas
